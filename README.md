@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm coderguy2000</h1>
-<h3 align="center">I am prefinal year student of IIIT pursuing Btech in Information Technology</h3>
+<h3 align="center">I am prefinal year student of IIIT Sonepat pursuing Btech in Information Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderguy2000&label=Profile%20views&color=0e75b6&style=flat" alt="coderguy2000" /> </p>
 
